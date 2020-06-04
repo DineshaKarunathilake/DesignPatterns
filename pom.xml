@@ -11,6 +11,7 @@
   <modules>
     <module>decorator</module>
     <module>observer</module>
+    <module>factory</module>
   </modules>
 
   <name>design-patterns</name>
