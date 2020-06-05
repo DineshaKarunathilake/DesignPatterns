@@ -12,6 +12,7 @@
     <module>decorator</module>
     <module>observer</module>
     <module>factory</module>
+      <module>singleton</module>
   </modules>
 
   <name>design-patterns</name>
