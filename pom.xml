@@ -17,6 +17,7 @@
       <module>template</module>
       <module>iterator</module>
     <module>composite</module>
+      <module>state</module>
   </modules>
 
   <name>design-patterns</name>
